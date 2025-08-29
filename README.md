@@ -1,8 +1,8 @@
 
-![Frontend web deveper](WhatsApp Image 2025-08-29 at 12.34.43_ffcab719.jpg)
+[![Frontend web deveper](WhatsApp Image 2025-08-29 at 12.34.43_ffcab719.jpg)](https://drive.google.com/file/d/10CvpAwFEmmdLIq5z9CpP4lL-YA8QR2nV/view?usp=sharing)
 
 ### Hi there 👋, Jalal Uddin Rumi
-#### Frontend web deveper
+### Frontend web developer
 
 
 A frontend web developer specializes in building the user-facing part of websites and applications. Skilled in HTML, CSS, JavaScript, and modern frameworks, they focus on creating responsive, interactive, and visually appealing interfaces that ensure a seamless user experience
