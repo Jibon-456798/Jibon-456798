@@ -1,6 +1,5 @@
 
-[![Frontend web deveper](WhatsApp Image 2025-08-29 at 12.34.43_ffcab719.jpg)](https://drive.google.com/file/d/10CvpAwFEmmdLIq5z9CpP4lL-YA8QR2nV/view?usp=sharing)
-
+https://drive.usercontent.google.com/download?id=10CvpAwFEmmdLIq5z9CpP4lL-YA8QR2nV&export=download&authuser=0&confirm=t&uuid=c2f8e217-2167-460f-8ef1-4e825469df5f&at=AN8xHopy65ikc5qZ2ryD_9xDOJgk:1756477553336
 ### Hi there 👋, Jalal Uddin Rumi
 ### Frontend web developer
 
