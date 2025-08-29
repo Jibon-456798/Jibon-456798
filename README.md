@@ -4,7 +4,7 @@
 ### I am a Frontend web developer
 
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+A frontend web developer specializes in building the user-facing part of websites and applications. Skilled in HTML, CSS, JavaScript, and modern frameworks, they focus on creating responsive, interactive, and visually appealing interfaces that ensure a seamless user experience.
 
 Skills: HTML/CSS/JAVASCRIPT/BOSTSTRAP/TAILWIND & SASS
 
