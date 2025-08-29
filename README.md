@@ -19,9 +19,11 @@ Skills: HTML/CSS/JAVASCRIPT/BOSTSTRAP/TAILWIND & SASS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jibon-456798)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jibon-456798&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jalal-456798&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Jibon-456798/contributions?format=svg&private=true)  
+![GitHub metrics](https://metrics.lecoq.io/Jalal-456798)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Jalal-456798)  
 
 
 
