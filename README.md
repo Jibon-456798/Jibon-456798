@@ -1,6 +1,6 @@
 
 https://drive.usercontent.google.com/download?id=10CvpAwFEmmdLIq5z9CpP4lL-YA8QR2nV&export=download&authuser=0&confirm=t&uuid=c2f8e217-2167-460f-8ef1-4e825469df5f&at=AN8xHopy65ikc5qZ2ryD_9xDOJgk:1756477553336
-### Hi there 👋, Jalal Uddin Rumi
+## Hi, Its me Jalal Uddin Rumi
 ### Frontend web developer
 
 
@@ -23,10 +23,6 @@ Skills:  HTML / CSS/JS / REACT / BOOTSTRAP/TAILWIND & SASS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jibon-456798&show_icons=true&count_private=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Jibon-456798/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Jibon-456798)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Jibon-456798)  
 
 
 
